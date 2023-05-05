@@ -1,3 +1,6 @@
 [submodule "NgRx_L"]
 	path = NgRx_L
 	url = https://github.com/alejandroCarvajalSarria/NgRx_L.git
+[submodule "Testing_L"]
+	path = Testing_L
+	url = https://github.com/alejandroCarvajalSarria/Testing_L.git
